@@ -1,0 +1,5 @@
+homepage: "https://github.com/javier-garijo-gtm"
+documentation: "https://github.com/javier-garijo-gtm/Currency-Conversion/blob/main/README.md"
+versions:
+  - sha: "24fc70485f8998701d8b39b3fb807f1b9240f9ab"
+    changeNotes: "Initial release of Ecommerce Currency Conversion - Fixed Analytics: server-side monetary currency conversion with dual exchange-rate providers, caching, event-specific currency configuration, configurable rounding, and logging."
