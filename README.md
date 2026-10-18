@@ -1,9 +1,9 @@
-# Ecommerce Currency Conversion - Fixed Analytics
+# Ecommerce Currency Conversion - Fixed Analytics™
 
 A **server-side Google Tag Manager (sGTM) variable template** that converts monetary event values from one currency to another, with automatic FX API fallback and daily exchange-rate caching.
 
 **Developer:** [Javier Garijo](https://github.com/javier-garijo-gtm)  
-**Brand:** Fixed Analytics
+**Brand:** Fixed Analytics™
 
 ## Why use it?
 
@@ -140,4 +140,4 @@ Developed and maintained by **Javier Garijo**.
 
 GitHub: [github.com/javier-garijo-gtm](https://github.com/javier-garijo-gtm)
 
-**Fixed Analytics**
+**Fixed Analytics™**
